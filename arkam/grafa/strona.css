@@ -1,0 +1,20 @@
+body {
+		background-color: #FFFFFF;
+	}
+
+h1 {
+		color: #1A1111;
+	}
+	
+.dbns {
+			opacity: 0.5;
+		}
+		.dbns:hover {
+			opacity: 1;
+			cursor: pointer;
+		}
+		
+footer { 
+    display: block;
+}
+

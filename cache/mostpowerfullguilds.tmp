@@ -1,0 +1,46 @@
+<section class="col-md-12 second">
+		<div class="col-md-9 character">
+			<div class="row">
+				<div class="col-md-12 account-managment">
+					<p>Guilds - REVE.DBNS.EU</p>
+				</div>
+			</div>
+<div class="col-md-11 your_characters">
+<div class="info_header">
+					<p>Best Guilds</p>
+				</div>
+				<div class="row">
+					<table class="table table-striped">
+        	<thead>
+							<tr><th><a href="?subtopic=guilds&action=show&guild=45"><img src="http://media.dbns.eu/goblet.png" height="22px" width="22px"><font color="gold">JustDoIt #1</font></a></th><th><a href="?subtopic=guilds&action=show&guild=88"><img src="http://media.dbns.eu/goblet2.png" height="22px" width="22px"><font color="silver">Hazze Team #2</font></a></th><th><a href="?subtopic=guilds&action=show&guild=94"><img src="http://media.dbns.eu/goblet3.png" height="22px" width="22px"><font color="#cd7f32">KawA MakeRS #3</font></a></th><th><a href="?subtopic=guilds&action=show&guild=75"><font color="white">JebacDisaSynaDiabla #4</font></a></th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody>
+
+							<tr><td><img src="guild_image.php?id=45" height="84" width="84"><br>
+								<br></td>	<td><img src="guild_image.php?id=88" height="84" width="84"><br>
+								<br></td>	<td><img src="guild_image.php?id=94" height="84" width="84"><br>
+								<br></td>	<td><img src="guild_image.php?id=75" height="84" width="84"><br>
+								<br></td>	<td><img src="https://cdn0.iconfinder.com/data/icons/awards-6/500/award_like-512.png" height="84" width="84"><br>
+
+							<br> </td>
+							</tr>
+
+							<tr><th>Frags<br>913
+								<br>
+								<font size="2px">(Won Leagues: <font color="red">0</font>)</font>
+								</th><th>Frags<br>684
+								<br>
+								<font size="2px">(Won Leagues: <font color="red">0</font>)</font>
+								</th><th>Frags<br>656
+								<br>
+								<font size="2px">(Won Leagues: <font color="red">0</font>)</font>
+								</th><th>Frags<br>591
+								<br>
+								<font size="2px">(Won Leagues: <font color="red">0</font>)</font>
+								</th><th></th></tr>
+
+						</tbody>
+
+        
